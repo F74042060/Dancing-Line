@@ -1,0 +1,76 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.153 seconds
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Sophomore\Window Programming\Project\DancingLine\DancingLine_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.391198 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ae8 -> priority: 1 
+Play or Replay Button Clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.040567 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.759980 ms (FindLiveObjects: 0.060649 ms CreateObjectMapping: 0.076044 ms MarkObjects: 0.566836 ms  DeleteObjects: 0.029391 ms)
+
+Spring Button Clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483327 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 0.297647 ms (FindLiveObjects: 0.039188 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.202474 ms  DeleteObjects: 0.019127 ms)
+
+The Line Touched Rock.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Line Touched Rock.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.035368 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 2.906493 ms (FindLiveObjects: 0.033590 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.214604 ms  DeleteObjects: 2.620976 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.889676 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.289249 ms (FindLiveObjects: 0.022860 ms CreateObjectMapping: 0.024259 ms MarkObjects: 0.235132 ms  DeleteObjects: 0.006064 ms)
+
+Exit Button Clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
